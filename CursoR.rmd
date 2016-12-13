@@ -1,0 +1,197 @@
+---
+title: "curso R"
+author: "Val F. Lanza"
+date: "24/10/2016"
+output: 
+  html_notebook: 
+    theme: journal
+    toc: yes
+---
+
+VARIABLES
+R (y la mayoria de lenguajes de programacion) tienen distintos tipos de "variables".
+Variables simples: Numero, Letra, Palabra...
+Variables complejas: Vector, Lista, Matriz, Tabla....
+
+Indepentdientemente del tipo de variables todas ellas se "guardan"" de la misma manera.
+
+```{r}
+A = 100
+B = 'H'
+C = 'Hola Mundo'
+
+A
+B
+C
+```
+
+Y se puede usar tanto el simbolo '=' como '<-'
+
+```{r}
+A <- 100
+B <- 'H'
+C <- 'Hola Mundo'
+A
+B
+C
+```
+
+Las variables se usan para realizar operaciones matematicas (y no matematicas)
+
+```{r}
+A*A
+A-A
+A/A
+A+A
+```
+
+Ademas de las variables existen las funciones. Las funciones son operaciones mas o menos complejas que se realizan sobre las variables.
+```{r}
+sqrt(A)
+log10(A)
+```
+
+Las funciones siempre se definen de la misma forma. nombre(atributos). Las funciones se pueden anidar, es decir hacer una funcion dentro de otra funcion.
+```{r}
+log10(sqrt(10))
+```
+
+Hasta aqui R funciona como una calculadora avanzada. Lo interesante son las variables de tipos complejos. El mas simple: un vector. Un vector es un conjunto de variables organizados en una unica dimension.
+```{r}
+A = c(1,2,3,5,7,11,13,17)
+A
+B = 1:100
+B
+```
+
+Los vectores nos permiten acceder a una variable a traves de su posicion usando los [corchetes]
+
+```{r}
+
+A[3]
+```
+ O a un subconjunto de sus variables
+ 
+```{r}
+A
+A[3:6]
+```
+
+Tambien podemos hacer comparaciones logicas
+```{r}
+A > 5
+```
+
+Y podemos anidarlas
+```{r}
+A[A>5]
+```
+
+Por supuesto podemos hacer vectores que no sean numericos
+```{r}
+B = c("Hola","a","todos")
+B
+B[2]
+```
+
+La siguiente variable compleja es la matrix. Una matriz es un vector con dimension 2 (n x m) en donde n y m no tiene porque ser iguales.
+```{r}
+A = matrix(1:100, ncol=4)
+A
+
+
+```
+
+Igual que los vectores, puedo acceder a los elementos individualmente mediante el uso de los []
+
+```{r}
+
+A[10,4]
+
+```
+
+O puedo seleccionar fila o columnas
+```{r}
+fila = A[3,]
+fila
+columna = A[,3]
+columna
+```
+
+A las filas o las columas de una matriz se les pueden dar nombre con las funciones rownames() y colnames()
+```{r}
+colnames(A) = c("C1","C2","C3","C4")
+A
+```
+
+
+
+
+Ademas de los vectores existen las Listas. Basicamente funcionan igual que los vectores, pero en este caso se puden hacer listas de cosas complejas. Por ejemplo una lista de matrices.
+```{r}
+A = matrix(1:30, ncol = 3)
+B = matrix(1:60, ncol = 3)
+
+lista = list(A,B)
+
+lista[[1]]
+```
+
+Anidando los [cochetes] podemos acceder a un dato en particular
+```{r}
+lista[[1]][5,2]
+```
+
+Pero el gran invento de R son los Data Frames. Los data frames son tablas que pueden tener multiples tipos de variables. A diferencia de las matrices podemos acceder a las columnas por su nombre.
+
+Primero vamos a cargar un data frame desde un archivo.
+```{r}
+tabla = read.table("movies.tab", header = TRUE, stringsAsFactors = FALSE)
+```
+
+Podemos acceder a una columna
+```{r}
+tabla$title
+```
+
+Y por supuesto a uno de los elementos
+```{r}
+tabla$title[1567]
+```
+
+Podemos transferir una de las columnas como si fuesen los nombre de las filas
+```{r}
+rownames(tabla) = tabla$title
+
+```
+Esto genera un error porque el nombre de las filas ha de ser unico. Vamos a juntar el titulo y el año en el nombre de fila (rowname) para obtener un dato unico
+```{r}
+rownames(tabla) = paste(tabla$title,tabla$year)
+```
+
+Tanto los dataframes, como los arrays (o matrices) pueden importarse/exportarse desde/a archivos de texto mediante los comandos write.XXX o read.XXX
+```{r}
+
+```
+
+
+PAQUETES Y LIBRERIAS
+
+La gran potencia de R son sus librerias y paquetes (Packages). Esxiten diversos repositorios donde se depositan estos paquetes.
+```{r}
+setRepositories()
+```
+
+Podemos instalar los paquetes mediante install.packages("nombre del paquete") o bien desde la ventana auxiliar de RStudio (recomendable).
+
+Para cargar una libreria, igualmente, podemos usar la consola con el comando library(paquete) o bien desde la ventana auxiliar de RStudio.
+
+Primero vamos a instalar un paquete en este caso es "tidyverse" que es una meta-paquete que instala varios paquetes al mismo tiempo.
+```{r}
+install.packages("tidyverse")
+```
+ y ahora lo cargamos
+ 
+```{r}
+library(tidyverse)
+```
