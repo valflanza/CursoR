@@ -1,0 +1,410 @@
+---
+title: "curso R"
+author: "Val F. Lanza"
+date: "29/05/2017"
+output:
+  pdf_document:
+    toc: yes
+  html_notebook:
+    theme: journal
+    toc: yes
+  html_document:
+    toc: yes
+---
+
+## VARIABLES
+
+R (y la mayoria de lenguajes de programacion) tienen distintos tipos de "variables".
+Variables simples: Numero, Letra, Palabra...
+Variables complejas: Vector, Lista, Matriz, Tabla....
+
+Indepentdientemente del tipo de variables todas ellas se "guardan"" de la misma manera.
+
+Y se puede usar tanto el simbolo '=' como '<-'
+
+```{r}
+A <- 5
+B <- 6
+```
+
+Las variables se usan para realizar operaciones matematicas (y no matematicas)
+
+```{r}
+A*B
+```
+
+Ademas de las variables existen las funciones. Las funciones son operaciones mas o menos complejas que se realizan sobre las variables.
+```{r}
+C = sqrt(A*B)
+```
+
+Las funciones siempre se definen de la misma forma. nombre(atributos). Las funciones se pueden anidar, es decir hacer una funcion dentro de otra funcion.
+```{r}
+log(cos(sqrt(2)))
+```
+
+Existen distintos tipos de variables: Numeros, palabras, valores logicos...
+```{r}
+A = "TRUE"
+```
+
+Podemos preguntar de que tipo es una variable
+```{r}
+class(A)
+```
+
+O incluso podemos convertir los tipos de variables
+```{r}
+A = "1"
+class(A)
+A = as.numeric(A)
+class(A)
+A*A
+```
+
+Existe un tipo especial de variable que son los "Factores". Los factores es un conjunto discreto de valores colocados en un vector
+```{r}
+A = as.data.frame(c(1:10))
+```
+Podemos convertir los factores en texto y viceversa
+```{r}
+
+```
+
+
+Hasta aqui R funciona como una calculadora avanzada. Lo interesante son las variables de tipos complejos. El mas simple: un vector. Un vector es un conjunto de variables organizados en una unica dimension.
+```{r}
+
+A = c(1,3,5,6,2)
+B = c(5,8,9,12,22)
+A-B
+sqrt(A)
+
+```
+#### EJERCICIO
+
+* Crear un vector de 100 numeros aleatorios entre 1 y 10.
+* Buscar la función para calcular la media, la mediana y la desviación estandar del vector.
+
+
+```{r}
+vector <- runif(100, min = 1, max = 10)
+vector
+
+media = mean(vector)
+media
+
+mediana = median(vector)
+mediana
+
+desviacion = sd(vector)
+desviacion
+
+```
+
+Los vectores nos permiten acceder a una variable a traves de su posicion usando los [corchetes]
+
+```{r}
+A = c(20:40)
+A
+A[12]
+```
+ O a un subconjunto de sus variables
+ 
+```{r}
+
+A[10:14]
+
+1:20
+
+```
+
+Tambien podemos hacer comparaciones logicas
+```{r}
+
+vector
+vector > 5
+
+
+
+
+```
+
+Y podemos anidarlas
+```{r}
+vector[vector >5]
+```
+
+Por supuesto podemos hacer vectores que no sean numericos
+```{r}
+Palabras = c("Hola","Mundo","Estoy","En","El","Curso","De","R")
+Palabras
+Palabras[2:5]
+
+Palabras == "Mundo"
+
+```
+
+La siguiente variable compleja es la matrix. Una matriz es un vector con dimension 2 (n x m) en donde n y m no tiene porque ser iguales.
+```{r}
+
+Matriz = matrix(vector,ncol = 5)
+Matriz
+```
+
+#### Ejercicio
+
+* Hacer una Matriz con 3 columnas con los valor "vector" mayores 3
+* Hacer una Matriz de 5 columnas con los 50 primeros numero vector
+* Matriz A 50 primero vector, matriz B 50 ultimos, las dos con 5 columas, sumar las A+B
+```{r}
+
+vector[vector > 3]
+matrix(vector[vector>3],ncol =3)
+
+1:50
+vector[1:50]
+matrix(vector[1:50], ncol =5)
+
+
+A = matrix(vector[1:50], ncol = 5)
+A
+
+B = matrix(vector[51:100], ncol = 5)
+B
+
+suma = A+B
+suma
+```
+
+
+Igual que los vectores, puedo acceder a los elementos individualmente mediante el uso de los [fila,columna]
+
+```{r}
+
+Matriz[1:4,3]
+Matriz[,3]
+Matriz[5,]
+Matriz[5:10,1:2]
+```
+
+
+Las fuciones nrow() y ncol() nos devuelven el numero de filas y columnas respectivamente.
+```{r}
+nrow(Matriz)
+ncol(Matriz)
+```
+
+A las filas o las columas de una matriz se les pueden dar nombre con las funciones rownames() y colnames()
+```{r}
+
+```
+
+
+Ademas de los vectores existen las Listas. Basicamente funcionan igual que los vectores, pero en este caso se puden hacer listas de cosas complejas. Por ejemplo una lista de matrices.
+```{r}
+
+```
+
+Anidando los [cochetes] podemos acceder a un dato en particular
+```{r}
+
+```
+
+#### EJERCICIO
+
+* Crear una matriz de 100 x 100 con numeros entre 1 y 10
+* Crear una sub-matriz con las columnas pares y las filas pares
+
+```{r}
+
+```
+
+
+Pero el gran invento de R son los Data Frames. Los data frames son tablas que pueden tener multiples tipos de variables. A diferencia de las matrices podemos acceder a las columnas por su nombre.
+
+Primero vamos a cargar un data frame desde un archivo.
+```{r}
+Micro = read.table("./Tablas/Tabla5.csv", sep = "\t", header = TRUE)
+```
+
+Podemos acceder a una columna
+```{r}
+Micro[10:20,5:7]
+
+```
+
+Y por supuesto  a uno de los elementos
+```{r}
+Micro[10,4]
+
+```
+
+Podemos transferir una de las columnas como si fuesen los nombre de las filas
+```{r}
+colnames(Micro)
+nombres = colnames(Micro)
+nombres
+
+nombres[11] <- "Descripcion"
+nombres
+
+colnames(Micro) = nombres
+
+Matriz
+colnames(Matriz) = c("Columna1","Columna2","Columna3","Columna4","Columna5")
+
+```
+
+```{r}
+
+AbR = read.table("./Tablas/Tabla1.csv", sep = ",", header = TRUE)
+AbR$Bichat11.reads * AbR$Bichat10.reads
+
+Temporal = cbind(AbR$Bichat1.reads,AbR$Bichat11.reads)
+
+```
+
+
+
+## IMPORTAR / EXPORTAR DATOS
+
+Tanto los dataframes, como los arrays (o matrices) pueden importarse/exportarse desde/a archivos de texto mediante los comandos write.XXX o read.XXX
+```{r}
+
+Micro = read.table("./Tablas/Tabla5.csv", sep = "\t", header = TRUE)
+Micro
+```
+
+Podemos tambien cargar tablas desde paginas web: https://raw.githubusercontent.com/valflanza/CursoR/master/Tablas/Tabla5.csv
+
+```{r}
+MicroNet = read.table("https://raw.githubusercontent.com/valflanza/CursoR/master/Tablas/Tabla5.csv", sep = "\t", header = TRUE)
+```
+
+Y la exportamos a nuestro ordenador con la funcion writeXXX
+```{r}
+
+write.table(Matriz,"Matrix.txt", sep = "\t", row.names = FALSE)
+
+```
+
+
+#### EJERCICIO
+
+* Cargar las tablas de la carpeta "Tabla1.csv"
+```{r}
+
+AbR = read.table("./Tablas/Tabla1.csv", sep = ",", header = TRUE)
+
+write.table(AbR,"AbR.txt", row.names = FALSE)
+
+
+```
+
+
+## PAQUETES Y LIBRERIAS
+
+La gran potencia de R son sus librerias y paquetes (Packages). Exiten diversos repositorios donde se depositan estos paquetes.
+```{r}
+library("pheatmap")
+```
+
+Podemos instalar los paquetes mediante install.packages("nombre del paquete") o bien desde la ventana auxiliar de RStudio (recomendable).
+
+Para cargar una libreria, igualmente, podemos usar la consola con el comando library(paquete) o bien desde la ventana auxiliar de RStudio.
+
+```{r}
+
+```
+ y ahora lo cargamos
+ 
+```{r}
+
+```
+ 
+#### EJERCICIO
+ * Descargar el paquete "pheatmap" y cargarlo
+```{r}
+
+```
+
+## FUNCIONES Y BUCLES Y CONDICIONALES
+
+En R como en la mayoria de los lenguajes de programación podemos crear "Bucles" y "Condicionales"
+
+Existen bucles "for"
+```{r}
+
+```
+
+Y existen bucles "while"
+```{r}
+
+```
+
+El condicional mas simple es "if" que se puede complementar con "else"
+```{r}
+
+```
+
+Y existe una version reducida que es "ifelse"
+```{r}
+
+```
+
+
+Existen los llamados operadores logicos:
+
+| Operator | Description               |
+|:--------:|:-------------------------:|
+| <	       | less than                 |
+| <=       | less than or equal to     |
+| >	       | greater than              |
+| >=       | greater than or equal to  |
+| ==       | exactly equal to          |
+| !=       | not equal to              |
+| !x       | Not x                     |
+| x \| y   | x OR y                    | 
+| x & y	   | x AND y                   |
+| isTRUE(x)| test if X is TRUE         |
+
+En R podemos crear nuestras propias funciones. En general las funciones deben de tener un conjunto de datos de entrada (input) y unos datos de salida (output)
+
+Para crear una funcion lo mas normal es crear un nuevo archivo script File -> New File -> Rscript o si es una funcion pequeña y sencilla excribirla directamente en la consolo (o en notebook)
+```{r}
+
+```
+
+#### EJERCICIO
+* Crear una funcion que nos diga si una matriz es cuadrada o no (TRUE or FALSE)
+```{r}
+
+```
+
+* Crear una funcion que separe los valores pares de los impares de un vector: Para saber si un numero es multiplo de 2 usar %%
+```{r}
+
+```
+
+
+
+## MANEJO DE TEXTOS
+
+R es capaz de manejar variables de texto (string).
+
+Podemos unir textos
+```{r}
+
+```
+
+Podemos buscar un texto especifico
+```{r}
+
+```
+
+Podemos sustituir un determinado texto por otro
+```{r}
+
+```
+
