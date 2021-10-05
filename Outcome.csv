@@ -1,0 +1,801 @@
+record_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,ingreso_complete,fecha_outcome,outcomefinal,necropsia,outcome_final_complete
+3,outcome_arm_1,NA,NA,NA,2020-04-04,Alta a domicilio,NA,Complete
+4,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+9,outcome_arm_1,NA,NA,NA,2020-04-01,Traslado a centro de cuidados mínimos,NA,Complete
+12,outcome_arm_1,NA,NA,NA,2020-03-27,NA,NA,Unverified
+17,outcome_arm_1,NA,NA,NA,2020-04-21,Alta a domicilio,NA,Complete
+18,outcome_arm_1,NA,NA,NA,2020-04-03,Exitus,NA,Complete
+19,outcome_arm_1,NA,NA,NA,2020-03-21,Alta a domicilio con oxigenoterapia,NA,Complete
+25,outcome_arm_1,NA,NA,NA,2020-04-20,Alta a domicilio,NA,Complete
+26,outcome_arm_1,NA,NA,NA,2020-04-16,Exitus LET,NA,Complete
+27,outcome_arm_1,NA,NA,NA,2020-07-25,Alta a domicilio,NA,Complete
+29,outcome_arm_1,NA,NA,NA,2020-04-05,Alta a domicilio con oxigenoterapia,NA,Complete
+30,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio,NA,Unverified
+33,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio con oxigenoterapia,NA,Complete
+38,outcome_arm_1,NA,NA,NA,2020-04-05,Alta a domicilio,NA,Complete
+41,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio,NA,Unverified
+42,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+43,outcome_arm_1,NA,NA,NA,2020-04-26,Alta a domicilio,NA,Complete
+47,outcome_arm_1,NA,NA,NA,2020-04-08,Traslado a centro de cuidados mínimos,NA,Complete
+50,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Unverified
+51,outcome_arm_1,NA,NA,NA,2020-05-05,Alta a domicilio,NA,Complete
+52,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Unverified
+53,outcome_arm_1,NA,NA,NA,2020-03-20,Alta a domicilio,NA,Complete
+58,outcome_arm_1,NA,NA,NA,2020-04-04,NA,NA,Unverified
+60,outcome_arm_1,NA,NA,NA,NA,NA,NA,Unverified
+61,outcome_arm_1,NA,NA,NA,2020-08-31,NA,NA,Unverified
+65,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+69,outcome_arm_1,NA,NA,NA,2020-03-20,Alta a domicilio,NA,Complete
+75,outcome_arm_1,NA,NA,NA,2020-04-24,Alta a domicilio,NA,Complete
+80,outcome_arm_1,NA,NA,NA,2020-04-02,Exitus,No,Complete
+81,outcome_arm_1,NA,NA,NA,2020-04-04,Alta a domicilio,NA,Complete
+83,outcome_arm_1,NA,NA,NA,2020-05-10,Alta a domicilio,NA,Complete
+84,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+87,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio,NA,Complete
+89,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio,NA,Complete
+91,outcome_arm_1,NA,NA,NA,2020-04-20,Exitus,No,Complete
+92,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio,NA,Complete
+93,outcome_arm_1,NA,NA,NA,2020-03-30,Exitus,No,Complete
+96,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+97,outcome_arm_1,NA,NA,NA,2020-03-23,Alta a domicilio,NA,Complete
+98,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio,NA,Complete
+101,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio con anticoagulantes,NA,Complete
+105,outcome_arm_1,NA,NA,NA,2020-04-12,Exitus,No,Complete
+113,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio con anticoagulantes,NA,Complete
+114,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio con anticoagulantes,NA,Complete
+115,outcome_arm_1,NA,NA,NA,2020-03-24,Exitus,No,Complete
+116,outcome_arm_1,NA,NA,NA,2020-04-10,Exitus LET,No,Complete
+119,outcome_arm_1,NA,NA,NA,2020-04-14,Exitus,No,Complete
+120,outcome_arm_1,NA,NA,NA,2020-04-12,Alta a domicilio con oxigenoterapia,NA,Complete
+121,outcome_arm_1,NA,NA,NA,2020-04-15,Alta a domicilio,NA,Complete
+123,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio con oxigenoterapia,NA,Complete
+128,outcome_arm_1,NA,NA,NA,2020-04-10,Alta a domicilio,NA,Complete
+130,outcome_arm_1,NA,NA,NA,2020-04-23,Alta a domicilio,NA,Complete
+132,outcome_arm_1,NA,NA,NA,2020-03-19,Alta a domicilio con oxigenoterapia,NA,Complete
+134,outcome_arm_1,NA,NA,NA,2020-04-11,Exitus LET,NA,Complete
+141,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio,NA,Complete
+144,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+155,outcome_arm_1,NA,NA,NA,2020-04-04,Alta a domicilio,NA,Complete
+160,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+161,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+164,outcome_arm_1,NA,NA,NA,2020-04-11,NA,NA,Unverified
+166,outcome_arm_1,NA,NA,NA,2020-03-18,Alta a domicilio,NA,Complete
+167,outcome_arm_1,NA,NA,NA,2020-04-20,Alta a domicilio,NA,Complete
+170,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+171,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio,NA,Complete
+172,outcome_arm_1,NA,NA,NA,2020-04-21,Alta a domicilio,NA,Complete
+174,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio con anticoagulantes,NA,Complete
+178,outcome_arm_1,NA,NA,NA,2020-04-05,Alta a domicilio,NA,Complete
+184,outcome_arm_1,NA,NA,NA,2020-04-02,Exitus LET,No,Complete
+187,outcome_arm_1,NA,NA,NA,2020-04-09,Alta a domicilio,NA,Complete
+192,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio con oxigenoterapia,NA,Complete
+199,outcome_arm_1,NA,NA,NA,2020-04-02,Exitus LET,No,Complete
+201,outcome_arm_1,NA,NA,NA,2020-03-21,Exitus,No,Complete
+202,outcome_arm_1,NA,NA,NA,2020-04-07,Exitus,No,Complete
+207,outcome_arm_1,NA,NA,NA,2020-06-16,Alta a domicilio,NA,Complete
+214,outcome_arm_1,NA,NA,NA,2020-04-06,Exitus,No,Complete
+215,outcome_arm_1,NA,NA,NA,2020-04-23,Alta a domicilio,NA,Complete
+216,outcome_arm_1,NA,NA,NA,2020-06-12,Alta a domicilio,NA,Complete
+218,outcome_arm_1,NA,NA,NA,2020-06-17,Exitus,No,Complete
+222,outcome_arm_1,NA,NA,NA,2020-05-27,Alta a domicilio,NA,Complete
+225,outcome_arm_1,NA,NA,NA,2020-08-21,Exitus LET,No,Complete
+238,outcome_arm_1,NA,NA,NA,2020-05-21,Alta a domicilio,NA,Complete
+240,outcome_arm_1,NA,NA,NA,2020-03-20,Alta a domicilio con oxigenoterapia,NA,Complete
+242,outcome_arm_1,NA,NA,NA,2020-09-04,Alta a domicilio con oxigenoterapia,NA,Complete
+245,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio con oxigenoterapia,NA,Complete
+246,outcome_arm_1,NA,NA,NA,2020-04-22,Alta a domicilio con anticoagulantes,NA,Complete
+249,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio con anticoagulantes,NA,Complete
+252,outcome_arm_1,NA,NA,NA,2020-08-29,Exitus LET,No,Complete
+255,outcome_arm_1,NA,NA,NA,2020-05-03,Alta a domicilio,NA,Complete
+261,outcome_arm_1,NA,NA,NA,2020-08-20,Alta a domicilio,NA,Complete
+263,outcome_arm_1,NA,NA,NA,2020-05-18,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+267,outcome_arm_1,NA,NA,NA,2020-05-03,Traslado a centro de cuidados mínimos,NA,Complete
+268,outcome_arm_1,NA,NA,NA,2020-09-15,Exitus LET,No,Complete
+270,outcome_arm_1,NA,NA,NA,2020-03-20,Alta a domicilio,NA,Complete
+272,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio con oxigenoterapia,NA,Complete
+274,outcome_arm_1,NA,NA,NA,2020-09-01,Alta a domicilio,NA,Complete
+276,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+277,outcome_arm_1,NA,NA,NA,2020-04-05,Alta a domicilio,NA,Complete
+281,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+284,outcome_arm_1,NA,NA,NA,2020-04-02,Exitus LET,No,Complete
+288,outcome_arm_1,NA,NA,NA,2020-04-22,Alta a domicilio con anticoagulantes,NA,Complete
+306,outcome_arm_1,NA,NA,NA,2020-06-18,Alta a domicilio,NA,Complete
+307,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+309,outcome_arm_1,NA,NA,NA,2020-03-29,Exitus LET,No,Complete
+316,outcome_arm_1,NA,NA,NA,2020-04-10,Exitus,No,Complete
+318,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+321,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio con oxigenoterapia,NA,Complete
+331,outcome_arm_1,NA,NA,NA,2020-05-08,Alta a domicilio,NA,Complete
+333,outcome_arm_1,NA,NA,NA,2020-03-29,Exitus LET,No,Complete
+338,outcome_arm_1,NA,NA,NA,2020-04-29,Alta a domicilio con anticoagulantes,NA,Complete
+339,outcome_arm_1,NA,NA,NA,2020-03-29,Alta a domicilio,NA,Complete
+350,outcome_arm_1,NA,NA,NA,2020-05-06,Alta a domicilio con oxigenoterapia,NA,Complete
+357,outcome_arm_1,NA,NA,NA,2020-04-07,Exitus LET,No,Complete
+360,outcome_arm_1,NA,NA,NA,2020-04-03,Exitus LET,No,Complete
+363,outcome_arm_1,NA,NA,NA,2020-04-10,Traslado a centro de cuidados mínimos,NA,Complete
+368,outcome_arm_1,NA,NA,NA,2020-03-29,Alta a domicilio,NA,Complete
+376,outcome_arm_1,NA,NA,NA,2020-05-05,Alta a domicilio,NA,Complete
+382,outcome_arm_1,NA,NA,NA,2020-04-25,Alta a domicilio,NA,Complete
+385,outcome_arm_1,NA,NA,NA,2020-08-26,Alta a domicilio con oxigenoterapia,NA,Complete
+388,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio,NA,Complete
+392,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio con anticoagulantes,NA,Complete
+395,outcome_arm_1,NA,NA,NA,2020-08-27,Alta a domicilio con anticoagulantes,NA,Complete
+396,outcome_arm_1,NA,NA,NA,2020-04-12,Alta a domicilio con oxigenoterapia,NA,Complete
+398,outcome_arm_1,NA,NA,NA,2020-06-02,Alta a domicilio,NA,Complete
+405,outcome_arm_1,NA,NA,NA,2020-04-02,Exitus LET,No,Complete
+408,outcome_arm_1,NA,NA,NA,2020-04-10,Alta a domicilio,NA,Complete
+410,outcome_arm_1,NA,NA,NA,2020-04-08,Exitus LET,No,Complete
+414,outcome_arm_1,NA,NA,NA,2020-03-30,Exitus LET,No,Complete
+416,outcome_arm_1,NA,NA,NA,2020-03-26,Exitus LET,No,Complete
+419,outcome_arm_1,NA,NA,NA,2020-04-17,Exitus LET,No,Complete
+421,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con anticoagulantes,NA,Complete
+433,outcome_arm_1,NA,NA,NA,2020-03-21,Exitus LET,No,Complete
+440,outcome_arm_1,NA,NA,NA,2020-07-09,Exitus,No,Complete
+443,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+446,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio con oxigenoterapia,NA,Complete
+448,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+450,outcome_arm_1,NA,NA,NA,2020-04-25,Alta a domicilio,NA,Complete
+452,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+461,outcome_arm_1,NA,NA,NA,2020-03-20,Alta a domicilio con oxigenoterapia,NA,Complete
+463,outcome_arm_1,NA,NA,NA,2020-04-23,Alta a domicilio,NA,Complete
+465,outcome_arm_1,NA,NA,NA,2020-03-23,Exitus LET,No,Complete
+466,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio,NA,Complete
+468,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio con anticoagulantes,NA,Complete
+473,outcome_arm_1,NA,NA,NA,NA,Alta a domicilio,NA,Complete
+477,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio con anticoagulantes,NA,Complete
+481,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio con anticoagulantes,NA,Complete
+484,outcome_arm_1,NA,NA,NA,2020-04-20,Alta a domicilio con anticoagulantes,NA,Complete
+487,outcome_arm_1,NA,NA,NA,2020-08-26,Alta a domicilio,NA,Complete
+490,outcome_arm_1,NA,NA,NA,2020-03-21,Exitus LET,No,Complete
+493,outcome_arm_1,NA,NA,NA,2020-04-19,Alta a domicilio,NA,Complete
+494,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+495,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio con anticoagulantes,NA,Complete
+499,outcome_arm_1,NA,NA,NA,2020-04-29,Alta a domicilio,NA,Complete
+502,outcome_arm_1,NA,NA,NA,2020-09-05,Exitus,No,Complete
+506,outcome_arm_1,NA,NA,NA,2020-04-05,Alta a domicilio con anticoagulantes,NA,Complete
+515,outcome_arm_1,NA,NA,NA,2020-04-21,Alta a domicilio con anticoagulantes,NA,Complete
+516,outcome_arm_1,NA,NA,NA,2020-05-05,Alta a domicilio con anticoagulantes,NA,Complete
+519,outcome_arm_1,NA,NA,NA,2020-05-26,Alta a domicilio con oxigenoterapia,NA,Complete
+520,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio,NA,Complete
+522,outcome_arm_1,NA,NA,NA,2020-05-05,Exitus LET,No,Complete
+523,outcome_arm_1,NA,NA,NA,2020-03-26,Exitus,No,Complete
+525,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+527,outcome_arm_1,NA,NA,NA,2020-05-09,Exitus LET,No,Complete
+530,outcome_arm_1,NA,NA,NA,2020-04-02,Exitus LET,No,Complete
+534,outcome_arm_1,NA,NA,NA,2020-05-22,Alta a domicilio,NA,Complete
+535,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio con anticoagulantes,NA,Complete
+539,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+544,outcome_arm_1,NA,NA,NA,2020-08-28,Alta a domicilio,NA,Complete
+546,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+548,outcome_arm_1,NA,NA,NA,2020-05-13,NA,NA,Incomplete
+549,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+550,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio,NA,Complete
+562,outcome_arm_1,NA,NA,NA,2020-08-07,Alta a domicilio con oxigenoterapia,NA,Complete
+565,outcome_arm_1,NA,NA,NA,2020-04-14,Alta a domicilio,NA,Complete
+566,outcome_arm_1,NA,NA,NA,2020-08-22,Alta a domicilio con anticoagulantes,NA,Complete
+576,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio con oxigenoterapia,NA,Complete
+577,outcome_arm_1,NA,NA,NA,2020-06-03,Exitus,No,Complete
+578,outcome_arm_1,NA,NA,NA,2020-04-16,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+581,outcome_arm_1,NA,NA,NA,2020-08-26,Alta a domicilio con oxigenoterapia,NA,Complete
+583,outcome_arm_1,NA,NA,NA,2020-04-22,Alta a domicilio,NA,Complete
+584,outcome_arm_1,NA,NA,NA,2020-04-01,Traslado a centro de cuidados mínimos,NA,Complete
+592,outcome_arm_1,NA,NA,NA,2020-03-30,Traslado a otro centro hospitalario,NA,Unverified
+594,outcome_arm_1,NA,NA,NA,2020-04-29,Exitus LET,No,Complete
+595,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio con oxigenoterapia,NA,Complete
+598,outcome_arm_1,NA,NA,NA,2020-04-03,NA,NA,Unverified
+602,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+608,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio con oxigenoterapia,NA,Complete
+609,outcome_arm_1,NA,NA,NA,2020-03-19,Alta a domicilio,NA,Complete
+611,outcome_arm_1,NA,NA,NA,2020-04-22,Alta a domicilio,NA,Complete
+612,outcome_arm_1,NA,NA,NA,2020-04-24,Exitus,No,Complete
+613,outcome_arm_1,NA,NA,NA,2020-04-21,Alta a domicilio,NA,Complete
+615,outcome_arm_1,NA,NA,NA,2020-05-16,Alta a domicilio,NA,Complete
+618,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+628,outcome_arm_1,NA,NA,NA,2020-09-01,Alta a domicilio con anticoagulantes,NA,Complete
+630,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+638,outcome_arm_1,NA,NA,NA,2020-08-30,Alta a domicilio,NA,Complete
+640,outcome_arm_1,NA,NA,NA,2020-04-24,Exitus,No,Complete
+645,outcome_arm_1,NA,NA,NA,2020-09-02,Alta a domicilio con anticoagulantes,NA,Complete
+652,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+653,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+654,outcome_arm_1,NA,NA,NA,2020-05-12,Alta a domicilio,NA,Complete
+657,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio con anticoagulantes,NA,Complete
+658,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+660,outcome_arm_1,NA,NA,NA,2020-04-07,Exitus LET,No,Complete
+661,outcome_arm_1,NA,NA,NA,2020-05-28,Alta a domicilio,NA,Complete
+664,outcome_arm_1,NA,NA,NA,2020-05-05,Alta a domicilio,NA,Complete
+668,outcome_arm_1,NA,NA,NA,2020-04-27,Exitus LET,No,Complete
+675,outcome_arm_1,NA,NA,NA,2020-03-20,Alta a domicilio con anticoagulantes,NA,Complete
+678,outcome_arm_1,NA,NA,NA,2020-04-10,Alta a domicilio,NA,Complete
+679,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+684,outcome_arm_1,NA,NA,NA,2020-04-01,Alta paliativa,NA,Complete
+687,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+689,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio con anticoagulantes,NA,Complete
+692,outcome_arm_1,NA,NA,NA,2020-03-26,Exitus LET,No,Complete
+693,outcome_arm_1,NA,NA,NA,2020-03-25,Exitus,No,Complete
+695,outcome_arm_1,NA,NA,NA,2020-08-17,Alta paliativa,NA,Complete
+697,outcome_arm_1,NA,NA,NA,2020-04-13,Exitus,No,Complete
+706,outcome_arm_1,NA,NA,NA,2020-07-05,Alta a domicilio,NA,Complete
+707,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio,NA,Complete
+711,outcome_arm_1,NA,NA,NA,2020-04-12,Alta a domicilio con oxigenoterapia,NA,Complete
+713,outcome_arm_1,NA,NA,NA,2020-04-30,Exitus LET,No,Complete
+715,outcome_arm_1,NA,NA,NA,2020-04-15,Exitus LET,No,Complete
+721,outcome_arm_1,NA,NA,NA,2020-03-20,Exitus,No,Complete
+726,outcome_arm_1,NA,NA,NA,2020-04-12,Traslado a centro de cuidados mínimos,NA,Complete
+727,outcome_arm_1,NA,NA,NA,2020-04-17,Exitus LET,NA,Complete
+732,outcome_arm_1,NA,NA,NA,2020-04-10,Traslado a centro de cuidados mínimos,NA,Complete
+736,outcome_arm_1,NA,NA,NA,2020-04-27,Alta a domicilio,NA,Complete
+738,outcome_arm_1,NA,NA,NA,2020-04-12,Alta a domicilio,NA,Complete
+740,outcome_arm_1,NA,NA,NA,2020-04-16,Exitus LET,No,Complete
+746,outcome_arm_1,NA,NA,NA,2020-05-07,Alta a domicilio con anticoagulantes,NA,Complete
+751,outcome_arm_1,NA,NA,NA,2020-04-14,Alta a domicilio,NA,Complete
+752,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio,NA,Complete
+758,outcome_arm_1,NA,NA,NA,2020-09-11,Alta a domicilio,NA,Complete
+764,outcome_arm_1,NA,NA,NA,2020-04-21,Exitus LET,No,Complete
+765,outcome_arm_1,NA,NA,NA,2020-04-12,Alta a domicilio con oxigenoterapia,NA,Complete
+766,outcome_arm_1,NA,NA,NA,2020-08-26,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+770,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con anticoagulantes,NA,Complete
+772,outcome_arm_1,NA,NA,NA,2020-03-29,Alta a domicilio,NA,Complete
+780,outcome_arm_1,NA,NA,NA,2020-04-08,Exitus,No,Complete
+783,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+787,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio con oxigenoterapia,NA,Complete
+792,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con anticoagulantes,NA,Complete
+794,outcome_arm_1,NA,NA,NA,2020-05-07,Alta a domicilio,NA,Complete
+797,outcome_arm_1,NA,NA,NA,2020-04-11,Exitus,No,Complete
+800,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+803,outcome_arm_1,NA,NA,NA,2020-04-29,Exitus,No,Complete
+806,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+814,outcome_arm_1,NA,NA,NA,2020-08-19,Alta a domicilio,NA,Complete
+817,outcome_arm_1,NA,NA,NA,2020-04-01,Exitus LET,No,Complete
+820,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con anticoagulantes,NA,Complete
+826,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+827,outcome_arm_1,NA,NA,NA,2020-05-13,Exitus,No,Complete
+829,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+830,outcome_arm_1,NA,NA,NA,2020-04-07,Exitus,No,Complete
+832,outcome_arm_1,NA,NA,NA,2020-03-23,Exitus,No,Complete
+837,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+839,outcome_arm_1,NA,NA,NA,2020-04-27,Alta a domicilio con oxigenoterapia,NA,Complete
+844,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio,NA,Complete
+849,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+858,outcome_arm_1,NA,NA,NA,2020-04-01,Exitus,No,Complete
+860,outcome_arm_1,NA,NA,NA,2020-03-30,Exitus LET,No,Complete
+863,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+865,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+872,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio,NA,Complete
+877,outcome_arm_1,NA,NA,NA,2020-05-06,Alta a domicilio,NA,Complete
+882,outcome_arm_1,NA,NA,NA,2020-03-18,Alta a domicilio,NA,Complete
+886,outcome_arm_1,NA,NA,NA,2020-04-09,Exitus LET,No,Complete
+894,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio con anticoagulantes,NA,Complete
+895,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio con oxigenoterapia,NA,Complete
+896,outcome_arm_1,NA,NA,NA,2020-04-09,Alta a domicilio,NA,Complete
+898,outcome_arm_1,NA,NA,NA,2020-04-19,Alta a domicilio,NA,Complete
+899,outcome_arm_1,NA,NA,NA,2020-03-23,Exitus LET,Sí,Complete
+904,outcome_arm_1,NA,NA,NA,2020-04-14,Alta a domicilio con anticoagulantes,NA,Complete
+906,outcome_arm_1,NA,NA,NA,2020-09-08,Alta a domicilio,NA,Complete
+908,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+913,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+914,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con oxigenoterapia,NA,Complete
+916,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+920,outcome_arm_1,NA,NA,NA,2020-03-26,Exitus,No,Complete
+932,outcome_arm_1,NA,NA,NA,2020-04-28,Exitus,No,Complete
+933,outcome_arm_1,NA,NA,NA,2020-03-30,Traslado a centro de cuidados mínimos,NA,Complete
+934,outcome_arm_1,NA,NA,NA,2020-04-03,Exitus,No,Complete
+935,outcome_arm_1,NA,NA,NA,2020-06-24,Alta a domicilio,NA,Complete
+936,outcome_arm_1,NA,NA,NA,2020-03-21,Alta a domicilio,NA,Complete
+937,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio con anticoagulantes,NA,Complete
+954,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio,NA,Complete
+960,outcome_arm_1,NA,NA,NA,2020-03-30,Exitus LET,No,Complete
+965,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio con oxigenoterapia,NA,Complete
+968,outcome_arm_1,NA,NA,NA,2020-10-02,Traslado a otro centro hospitalario,NA,Complete
+969,outcome_arm_1,NA,NA,NA,2020-03-23,Alta a domicilio con oxigenoterapia,NA,Complete
+972,outcome_arm_1,NA,NA,NA,2020-04-10,Alta a domicilio con anticoagulantes,NA,Complete
+976,outcome_arm_1,NA,NA,NA,2020-09-28,Traslado a centro de cuidados mínimos,NA,Complete
+978,outcome_arm_1,NA,NA,NA,2020-03-10,Alta a domicilio con anticoagulantes,NA,Complete
+980,outcome_arm_1,NA,NA,NA,2020-04-26,Traslado a otro centro hospitalario,NA,Complete
+985,outcome_arm_1,NA,NA,NA,2020-04-29,Traslado a centro de cuidados mínimos,NA,Complete
+989,outcome_arm_1,NA,NA,NA,2020-05-04,Exitus,No,Complete
+991,outcome_arm_1,NA,NA,NA,2020-05-27,Alta a domicilio con anticoagulantes,NA,Complete
+995,outcome_arm_1,NA,NA,NA,2020-03-21,Alta a domicilio,NA,Complete
+996,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio con oxigenoterapia,NA,Complete
+997,outcome_arm_1,NA,NA,NA,2020-04-11,Exitus,No,Complete
+1005,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio con anticoagulantes,NA,Complete
+1006,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1008,outcome_arm_1,NA,NA,NA,2020-03-24,Exitus,No,Complete
+1011,outcome_arm_1,NA,NA,NA,2020-04-02,Exitus,No,Complete
+1015,outcome_arm_1,NA,NA,NA,2020-04-15,Alta a domicilio con oxigenoterapia,NA,Complete
+1017,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+1018,outcome_arm_1,NA,NA,NA,2020-03-22,Alta a domicilio,NA,Complete
+1019,outcome_arm_1,NA,NA,NA,2020-04-04,Alta a domicilio,NA,Complete
+1020,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio con anticoagulantes,NA,Complete
+1022,outcome_arm_1,NA,NA,NA,2020-04-13,Exitus,No,Complete
+1025,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1027,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+1029,outcome_arm_1,NA,NA,NA,2020-04-26,Alta a domicilio,NA,Complete
+1032,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+1038,outcome_arm_1,NA,NA,NA,2020-08-31,Traslado a centro de cuidados mínimos,NA,Complete
+1043,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio con anticoagulantes,NA,Complete
+1044,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio con anticoagulantes,NA,Complete
+1045,outcome_arm_1,NA,NA,NA,2020-03-29,Traslado a centro de cuidados mínimos,NA,Complete
+1051,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+1052,outcome_arm_1,NA,NA,NA,2020-04-21,Alta a domicilio con anticoagulantes,NA,Complete
+1057,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+1058,outcome_arm_1,NA,NA,NA,2020-04-15,Alta a domicilio,NA,Complete
+1062,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio,NA,Complete
+1066,outcome_arm_1,NA,NA,NA,2020-04-03,Exitus,No,Complete
+1068,outcome_arm_1,NA,NA,NA,2020-05-20,Exitus,No,Complete
+1071,outcome_arm_1,NA,NA,NA,2020-05-18,Alta a domicilio,NA,Complete
+1074,outcome_arm_1,NA,NA,NA,2020-03-18,Alta a domicilio,NA,Complete
+1075,outcome_arm_1,NA,NA,NA,2020-04-14,Alta a domicilio con oxigenoterapia,NA,Complete
+1079,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+1081,outcome_arm_1,NA,NA,NA,2020-03-29,Exitus LET,Sí,Complete
+1083,outcome_arm_1,NA,NA,NA,2020-03-19,Traslado a otro centro hospitalario,NA,Complete
+1091,outcome_arm_1,NA,NA,NA,2020-04-03,Exitus LET,No,Complete
+1092,outcome_arm_1,NA,NA,NA,2020-03-22,Alta a domicilio,NA,Complete
+1097,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio,NA,Complete
+1111,outcome_arm_1,NA,NA,NA,2020-04-05,Alta a domicilio,NA,Complete
+1112,outcome_arm_1,NA,NA,NA,2020-04-14,Exitus LET,No,Complete
+1122,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio,NA,Complete
+1124,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1127,outcome_arm_1,NA,NA,NA,2020-05-22,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1128,outcome_arm_1,NA,NA,NA,2020-04-09,Alta a domicilio,NA,Complete
+1132,outcome_arm_1,NA,NA,NA,2020-08-29,Exitus,NA,Unverified
+1134,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio con anticoagulantes,NA,Complete
+1135,outcome_arm_1,NA,NA,NA,2020-06-12,Exitus LET,No,Complete
+1143,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio con anticoagulantes,NA,Complete
+1147,outcome_arm_1,NA,NA,NA,2020-04-27,Alta a domicilio,NA,Complete
+1149,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+1150,outcome_arm_1,NA,NA,NA,2020-03-25,Exitus,No,Complete
+1152,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+1153,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+1163,outcome_arm_1,NA,NA,NA,2020-05-12,NA,NA,Unverified
+1164,outcome_arm_1,NA,NA,NA,2020-03-28,Exitus,No,Complete
+1172,outcome_arm_1,NA,NA,NA,2020-04-15,Exitus,NA,Unverified
+1173,outcome_arm_1,NA,NA,NA,2020-04-13,NA,NA,Unverified
+1174,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+1175,outcome_arm_1,NA,NA,NA,2020-04-14,NA,NA,Unverified
+1176,outcome_arm_1,NA,NA,NA,2020-04-01,NA,NA,Unverified
+1178,outcome_arm_1,NA,NA,NA,2020-03-25,NA,NA,Unverified
+1185,outcome_arm_1,NA,NA,NA,2020-03-26,NA,NA,Unverified
+1189,outcome_arm_1,NA,NA,NA,NA,NA,NA,Unverified
+1193,outcome_arm_1,NA,NA,NA,2020-03-31,NA,NA,Unverified
+1194,outcome_arm_1,NA,NA,NA,2020-04-02,NA,NA,Unverified
+1199,outcome_arm_1,NA,NA,NA,2020-04-13,NA,NA,Unverified
+1205,outcome_arm_1,NA,NA,NA,2020-09-08,Alta a domicilio con anticoagulantes,NA,Complete
+1208,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio con anticoagulantes,NA,Complete
+1210,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+1217,outcome_arm_1,NA,NA,NA,2020-04-18,Alta a domicilio,NA,Complete
+1218,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio,NA,Complete
+1227,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio con anticoagulantes,NA,Complete
+1238,outcome_arm_1,NA,NA,NA,2020-03-22,Alta a domicilio,NA,Complete
+1240,outcome_arm_1,NA,NA,NA,2020-04-06,Exitus,No,Complete
+1242,outcome_arm_1,NA,NA,NA,2020-04-19,Traslado a otro centro hospitalario,NA,Complete
+1247,outcome_arm_1,NA,NA,NA,2020-03-25,Exitus no esperado (muerte súbita),No,Complete
+1251,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+1256,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio con anticoagulantes,NA,Complete
+1258,outcome_arm_1,NA,NA,NA,2020-03-29,Exitus,No,Complete
+1260,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+1262,outcome_arm_1,NA,NA,NA,2020-05-06,Alta a domicilio,NA,Complete
+1270,outcome_arm_1,NA,NA,NA,2020-03-22,Exitus LET,No,Complete
+1271,outcome_arm_1,NA,NA,NA,2020-03-21,Alta a domicilio con oxigenoterapia,NA,Complete
+1274,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio,NA,Complete
+1279,outcome_arm_1,NA,NA,NA,2020-04-10,Exitus LET,No,Complete
+1284,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio con anticoagulantes,NA,Complete
+1285,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+1293,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio,NA,Complete
+1296,outcome_arm_1,NA,NA,NA,2020-09-11,Alta a domicilio con anticoagulantes,NA,Complete
+1297,outcome_arm_1,NA,NA,NA,2020-05-07,Alta a domicilio,NA,Complete
+1306,outcome_arm_1,NA,NA,NA,2020-04-08,Exitus,No,Complete
+1314,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+1318,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio,NA,Complete
+1322,outcome_arm_1,NA,NA,NA,NA,Alta a domicilio,NA,Complete
+1324,outcome_arm_1,NA,NA,NA,2020-04-19,Exitus,No,Complete
+1329,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+1333,outcome_arm_1,NA,NA,NA,2020-04-02,Exitus LET,No,Complete
+1338,outcome_arm_1,NA,NA,NA,2020-04-06,Exitus LET,No,Complete
+1343,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+1344,outcome_arm_1,NA,NA,NA,2020-04-22,Alta a domicilio,NA,Complete
+1347,outcome_arm_1,NA,NA,NA,2020-04-01,Exitus LET,No,Complete
+1349,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio con oxigenoterapia,NA,Complete
+1350,outcome_arm_1,NA,NA,NA,2020-03-22,Alta a domicilio,NA,Complete
+1351,outcome_arm_1,NA,NA,NA,2020-04-14,Alta a domicilio,NA,Complete
+1354,outcome_arm_1,NA,NA,NA,2020-03-19,Exitus LET,No,Complete
+1357,outcome_arm_1,NA,NA,NA,2020-03-31,Exitus,No,Complete
+1358,outcome_arm_1,NA,NA,NA,2020-03-29,Alta a domicilio con anticoagulantes,NA,Complete
+1359,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio,NA,Complete
+1360,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+1364,outcome_arm_1,NA,NA,NA,2020-05-11,Alta a domicilio con oxigenoterapia,NA,Complete
+1368,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con anticoagulantes,NA,Complete
+1371,outcome_arm_1,NA,NA,NA,2020-05-07,Alta a domicilio,NA,Complete
+1372,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+1374,outcome_arm_1,NA,NA,NA,2020-04-15,Alta a domicilio,NA,Complete
+1379,outcome_arm_1,NA,NA,NA,2020-04-18,Alta a domicilio con anticoagulantes,NA,Complete
+1382,outcome_arm_1,NA,NA,NA,2020-03-23,Alta a domicilio,NA,Complete
+1384,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1386,outcome_arm_1,NA,NA,NA,2020-04-16,Alta a domicilio,NA,Complete
+1389,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio,NA,Complete
+1392,outcome_arm_1,NA,NA,NA,2020-04-16,Alta a domicilio,NA,Complete
+1394,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+1396,outcome_arm_1,NA,NA,NA,2020-04-26,Alta a domicilio,NA,Complete
+1399,outcome_arm_1,NA,NA,NA,2020-04-10,Alta a domicilio,NA,Complete
+1412,outcome_arm_1,NA,NA,NA,2020-08-24,Alta a domicilio con anticoagulantes,NA,Complete
+1413,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+1415,outcome_arm_1,NA,NA,NA,2020-03-29,Alta a domicilio,NA,Complete
+1418,outcome_arm_1,NA,NA,NA,2020-06-24,Alta a domicilio,NA,Complete
+1419,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio con anticoagulantes,NA,Complete
+1420,outcome_arm_1,NA,NA,NA,2020-03-21,Exitus,No,Complete
+1421,outcome_arm_1,NA,NA,NA,2020-03-23,Alta a domicilio,NA,Complete
+1426,outcome_arm_1,NA,NA,NA,2020-04-12,Alta a domicilio,NA,Complete
+1427,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+1432,outcome_arm_1,NA,NA,NA,2020-04-01,Exitus,No,Complete
+1433,outcome_arm_1,NA,NA,NA,2020-03-28,Exitus,No,Complete
+1438,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+1440,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+1443,outcome_arm_1,NA,NA,NA,2020-05-22,Exitus,No,Complete
+1444,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con oxigenoterapia,NA,Complete
+1445,outcome_arm_1,NA,NA,NA,2020-05-07,Alta a domicilio,NA,Complete
+1452,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+1455,outcome_arm_1,NA,NA,NA,2020-04-11,NA,NA,Unverified
+1457,outcome_arm_1,NA,NA,NA,2020-04-07,Exitus,NA,Unverified
+1459,outcome_arm_1,NA,NA,NA,2020-08-27,NA,NA,Unverified
+1462,outcome_arm_1,NA,NA,NA,2020-03-29,Exitus,NA,Unverified
+1463,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+1465,outcome_arm_1,NA,NA,NA,2020-03-29,Exitus LET,No,Complete
+1466,outcome_arm_1,NA,NA,NA,2020-04-02,NA,NA,Unverified
+1474,outcome_arm_1,NA,NA,NA,2020-09-17,Alta a domicilio,NA,Complete
+1475,outcome_arm_1,NA,NA,NA,2020-03-27,NA,NA,Unverified
+1478,outcome_arm_1,NA,NA,NA,2020-03-25,NA,NA,Unverified
+1484,outcome_arm_1,NA,NA,NA,2020-03-24,NA,NA,Unverified
+1485,outcome_arm_1,NA,NA,NA,2020-04-02,NA,NA,Unverified
+1488,outcome_arm_1,NA,NA,NA,2020-09-08,NA,NA,Unverified
+1489,outcome_arm_1,NA,NA,NA,2020-05-12,NA,NA,Unverified
+1492,outcome_arm_1,NA,NA,NA,2020-08-25,NA,NA,Unverified
+1493,outcome_arm_1,NA,NA,NA,2020-04-20,NA,NA,Unverified
+1499,outcome_arm_1,NA,NA,NA,2020-03-24,NA,NA,Unverified
+1505,outcome_arm_1,NA,NA,NA,2020-04-27,Alta a domicilio,NA,Complete
+1506,outcome_arm_1,NA,NA,NA,2020-05-06,Exitus,No,Complete
+1510,outcome_arm_1,NA,NA,NA,2020-04-27,Traslado a centro de cuidados mínimos,NA,Complete
+1518,outcome_arm_1,NA,NA,NA,2020-03-27,Traslado a centro de cuidados mínimos,NA,Complete
+1525,outcome_arm_1,NA,NA,NA,2020-09-03,Alta a domicilio con oxigenoterapia,NA,Complete
+1529,outcome_arm_1,NA,NA,NA,2020-04-14,Alta a domicilio,NA,Complete
+1538,outcome_arm_1,NA,NA,NA,2020-03-29,Exitus LET,NA,Complete
+1542,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+1549,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio,NA,Complete
+1550,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+1556,outcome_arm_1,NA,NA,NA,2020-03-23,Alta a domicilio,NA,Complete
+1558,outcome_arm_1,NA,NA,NA,2020-04-15,Alta a domicilio,NA,Complete
+1559,outcome_arm_1,NA,NA,NA,2020-04-29,Exitus,No,Complete
+1562,outcome_arm_1,NA,NA,NA,2020-03-27,Exitus,NA,Unverified
+1563,outcome_arm_1,NA,NA,NA,2020-03-25,Exitus,NA,Unverified
+1571,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio,NA,Complete
+1572,outcome_arm_1,NA,NA,NA,2020-09-17,Alta a domicilio,NA,Complete
+1573,outcome_arm_1,NA,NA,NA,2020-04-09,Exitus,NA,Unverified
+1578,outcome_arm_1,NA,NA,NA,2020-08-30,Alta a domicilio,NA,Complete
+1579,outcome_arm_1,NA,NA,NA,2020-05-06,Alta a domicilio con anticoagulantes,NA,Complete
+1584,outcome_arm_1,NA,NA,NA,2020-03-20,NA,NA,Unverified
+1588,outcome_arm_1,NA,NA,NA,2020-03-22,Exitus,NA,Unverified
+1590,outcome_arm_1,NA,NA,NA,2020-04-05,Exitus,NA,Unverified
+1593,outcome_arm_1,NA,NA,NA,2020-03-23,Exitus LET,No,Complete
+1598,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio,NA,Complete
+1604,outcome_arm_1,NA,NA,NA,2020-03-29,Exitus,No,Complete
+1605,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio,NA,Complete
+1606,outcome_arm_1,NA,NA,NA,2020-04-09,Alta a domicilio,NA,Complete
+1607,outcome_arm_1,NA,NA,NA,2020-05-11,Alta a domicilio,NA,Complete
+1608,outcome_arm_1,NA,NA,NA,2020-05-05,Alta a domicilio,NA,Complete
+1611,outcome_arm_1,NA,NA,NA,2020-04-29,Alta a domicilio,NA,Complete
+1613,outcome_arm_1,NA,NA,NA,2020-06-15,Alta a domicilio,NA,Complete
+1616,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con oxigenoterapia,NA,Complete
+1622,outcome_arm_1,NA,NA,NA,2020-05-20,Alta a domicilio,NA,Complete
+1624,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+1626,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio,NA,Complete
+1628,outcome_arm_1,NA,NA,NA,2020-04-29,Alta a domicilio,NA,Complete
+1629,outcome_arm_1,NA,NA,NA,2020-04-24,Exitus,No,Complete
+1635,outcome_arm_1,NA,NA,NA,2020-05-07,Alta a domicilio,NA,Complete
+1646,outcome_arm_1,NA,NA,NA,2020-09-01,Alta a domicilio con anticoagulantes,NA,Complete
+1647,outcome_arm_1,NA,NA,NA,2020-04-10,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1650,outcome_arm_1,NA,NA,NA,2020-05-19,Alta a domicilio con anticoagulantes,NA,Complete
+1655,outcome_arm_1,NA,NA,NA,2020-04-10,Alta a domicilio,NA,Complete
+1660,outcome_arm_1,NA,NA,NA,2020-04-08,Exitus,No,Complete
+1661,outcome_arm_1,NA,NA,NA,2020-03-19,Alta a domicilio,NA,Complete
+1667,outcome_arm_1,NA,NA,NA,2020-04-17,Traslado a centro de cuidados mínimos,NA,Complete
+1673,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+1678,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+1681,outcome_arm_1,NA,NA,NA,2020-05-05,Alta a domicilio,NA,Complete
+1684,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio,NA,Complete
+1691,outcome_arm_1,NA,NA,NA,2020-04-02,Exitus,NA,Complete
+1693,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio,NA,Complete
+1694,outcome_arm_1,NA,NA,NA,2020-03-21,Alta a domicilio,NA,Complete
+1707,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio con oxigenoterapia,NA,Complete
+1708,outcome_arm_1,NA,NA,NA,2020-08-24,Alta a domicilio,NA,Complete
+1714,outcome_arm_1,NA,NA,NA,2020-04-19,Exitus,No,Complete
+1716,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+1717,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio con anticoagulantes,NA,Complete
+1719,outcome_arm_1,NA,NA,NA,2020-04-16,Alta a domicilio,NA,Complete
+1723,outcome_arm_1,NA,NA,NA,2020-04-09,Exitus,No,Complete
+1725,outcome_arm_1,NA,NA,NA,2020-08-26,Traslado a centro de cuidados mínimos,NA,Complete
+1726,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio con anticoagulantes,NA,Complete
+1729,outcome_arm_1,NA,NA,NA,2020-03-19,Exitus,NA,Complete
+1732,outcome_arm_1,NA,NA,NA,2020-04-16,Alta a domicilio,NA,Complete
+1735,outcome_arm_1,NA,NA,NA,2020-03-29,Alta a domicilio con anticoagulantes,NA,Complete
+1739,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio,NA,Complete
+1741,outcome_arm_1,NA,NA,NA,2020-04-14,Exitus,NA,Unverified
+1745,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+1753,outcome_arm_1,NA,NA,NA,2020-04-27,Alta a domicilio,NA,Complete
+1757,outcome_arm_1,NA,NA,NA,2020-08-31,Exitus,No,Complete
+1766,outcome_arm_1,NA,NA,NA,2020-04-24,Alta a domicilio,NA,Complete
+1768,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio,NA,Complete
+1775,outcome_arm_1,NA,NA,NA,2020-04-12,Exitus LET,No,Complete
+1777,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+1779,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio con oxigenoterapia,NA,Complete
+1781,outcome_arm_1,NA,NA,NA,2020-04-14,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1786,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+1789,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+1793,outcome_arm_1,NA,NA,NA,2020-04-24,Traslado a centro de cuidados mínimos,NA,Complete
+1795,outcome_arm_1,NA,NA,NA,2020-04-24,Alta a domicilio,NA,Complete
+1796,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio con oxigenoterapia,NA,Complete
+1810,outcome_arm_1,NA,NA,NA,2020-08-27,Alta a domicilio,NA,Complete
+1811,outcome_arm_1,NA,NA,NA,2020-04-06,Exitus LET,Sí,Complete
+1814,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+1815,outcome_arm_1,NA,NA,NA,2020-04-04,Alta a domicilio,NA,Complete
+1823,outcome_arm_1,NA,NA,NA,2020-04-24,Alta a domicilio con anticoagulantes,NA,Complete
+1825,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio con oxigenoterapia,NA,Complete
+1829,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1831,outcome_arm_1,NA,NA,NA,2020-04-25,Alta a domicilio,NA,Complete
+1840,outcome_arm_1,NA,NA,NA,2020-05-05,Alta a domicilio con anticoagulantes,NA,Complete
+1841,outcome_arm_1,NA,NA,NA,2020-03-25,Exitus,NA,Complete
+1842,outcome_arm_1,NA,NA,NA,2020-04-05,Exitus LET,NA,Complete
+1843,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1849,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio,NA,Complete
+1851,outcome_arm_1,NA,NA,NA,2020-03-25,Exitus LET,NA,Complete
+1854,outcome_arm_1,NA,NA,NA,2020-03-30,NA,NA,Unverified
+1856,outcome_arm_1,NA,NA,NA,2020-04-21,Alta a domicilio,NA,Complete
+1859,outcome_arm_1,NA,NA,NA,2020-03-23,Exitus,No,Complete
+1862,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio,NA,Complete
+1864,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+1868,outcome_arm_1,NA,NA,NA,2020-03-26,Exitus,NA,Unverified
+1870,outcome_arm_1,NA,NA,NA,2020-03-21,Exitus,No,Complete
+1871,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+1879,outcome_arm_1,NA,NA,NA,2020-04-05,Alta a domicilio,NA,Complete
+1882,outcome_arm_1,NA,NA,NA,2020-04-22,Alta a domicilio,NA,Complete
+1884,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1888,outcome_arm_1,NA,NA,NA,2020-06-08,NA,NA,Unverified
+1910,outcome_arm_1,NA,NA,NA,2020-03-29,Alta a domicilio,NA,Complete
+1912,outcome_arm_1,NA,NA,NA,2020-04-07,Exitus,No,Complete
+1914,outcome_arm_1,NA,NA,NA,2020-05-14,Alta a domicilio,NA,Complete
+1918,outcome_arm_1,NA,NA,NA,2020-04-06,Exitus LET,No,Complete
+1925,outcome_arm_1,NA,NA,NA,2020-04-25,Alta a domicilio con anticoagulantes,NA,Complete
+1934,outcome_arm_1,NA,NA,NA,2020-04-04,Exitus,No,Complete
+1937,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+1940,outcome_arm_1,NA,NA,NA,2020-03-30,Exitus LET,No,Complete
+1942,outcome_arm_1,NA,NA,NA,2020-07-03,Traslado a centro de cuidados mínimos,NA,Complete
+1948,outcome_arm_1,NA,NA,NA,2020-03-31,Exitus LET,No,Complete
+1949,outcome_arm_1,NA,NA,NA,2020-03-26,NA,NA,Unverified
+1953,outcome_arm_1,NA,NA,NA,2020-04-10,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+1954,outcome_arm_1,NA,NA,NA,2020-08-27,Alta a domicilio con anticoagulantes,NA,Complete
+1955,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+1956,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+1958,outcome_arm_1,NA,NA,NA,2020-04-08,NA,NA,Unverified
+1962,outcome_arm_1,NA,NA,NA,2020-05-12,NA,NA,Unverified
+1965,outcome_arm_1,NA,NA,NA,2020-03-20,Exitus LET,No,Complete
+1966,outcome_arm_1,NA,NA,NA,2020-03-26,Traslado a centro de cuidados mínimos,NA,Complete
+1975,outcome_arm_1,NA,NA,NA,2020-04-08,Exitus,NA,Unverified
+1976,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio,NA,Complete
+1978,outcome_arm_1,NA,NA,NA,2020-06-23,Alta a domicilio,NA,Complete
+1981,outcome_arm_1,NA,NA,NA,2020-03-28,Alta a domicilio,NA,Complete
+1983,outcome_arm_1,NA,NA,NA,2020-04-20,Alta a domicilio,NA,Complete
+1984,outcome_arm_1,NA,NA,NA,2020-04-09,Alta a domicilio,NA,Complete
+1985,outcome_arm_1,NA,NA,NA,2020-04-09,Exitus,NA,Unverified
+1987,outcome_arm_1,NA,NA,NA,2020-04-21,Alta a domicilio,NA,Complete
+1997,outcome_arm_1,NA,NA,NA,2020-08-29,Alta a domicilio,NA,Complete
+1998,outcome_arm_1,NA,NA,NA,2020-04-16,Alta a domicilio,NA,Complete
+2016,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+2017,outcome_arm_1,NA,NA,NA,2020-04-30,Alta a domicilio,NA,Complete
+2018,outcome_arm_1,NA,NA,NA,2020-03-20,Exitus,No,Complete
+2023,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+2025,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio,NA,Complete
+2026,outcome_arm_1,NA,NA,NA,2020-04-12,Alta a domicilio con oxigenoterapia,NA,Complete
+2028,outcome_arm_1,NA,NA,NA,2020-03-30,Exitus,No,Complete
+2032,outcome_arm_1,NA,NA,NA,2020-03-20,Alta a domicilio,NA,Complete
+2036,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+2038,outcome_arm_1,NA,NA,NA,2020-07-07,Traslado a centro de cuidados mínimos,NA,Complete
+2044,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+2059,outcome_arm_1,NA,NA,NA,2020-05-09,Traslado a centro de cuidados mínimos,NA,Complete
+2060,outcome_arm_1,NA,NA,NA,2020-04-08,NA,NA,Unverified
+2061,outcome_arm_1,NA,NA,NA,2020-04-26,Exitus,NA,Complete
+2066,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+2068,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+2069,outcome_arm_1,NA,NA,NA,2020-05-08,Alta a domicilio,NA,Complete
+2082,outcome_arm_1,NA,NA,NA,2020-04-14,Exitus,No,Complete
+2085,outcome_arm_1,NA,NA,NA,2020-04-20,Alta a domicilio,NA,Complete
+2091,outcome_arm_1,NA,NA,NA,2020-04-27,Alta a domicilio,NA,Complete
+2093,outcome_arm_1,NA,NA,NA,2020-09-02,NA,NA,Unverified
+2094,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+2099,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio,NA,Complete
+2105,outcome_arm_1,NA,NA,NA,2020-09-11,Exitus,No,Complete
+2107,outcome_arm_1,NA,NA,NA,2020-03-23,Alta a domicilio,NA,Complete
+2109,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio con anticoagulantes,NA,Complete
+2115,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio con oxigenoterapia,NA,Complete
+2119,outcome_arm_1,NA,NA,NA,2020-04-11,NA,NA,Unverified
+2122,outcome_arm_1,NA,NA,NA,2020-03-20,NA,NA,Unverified
+2123,outcome_arm_1,NA,NA,NA,2020-04-05,Traslado a centro de cuidados mínimos,NA,Complete
+2124,outcome_arm_1,NA,NA,NA,2020-07-29,Alta a domicilio,NA,Complete
+2125,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio con oxigenoterapia,NA,Complete
+2129,outcome_arm_1,NA,NA,NA,2020-04-30,Alta a domicilio con anticoagulantes,NA,Complete
+2131,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+2136,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio con oxigenoterapia,NA,Complete
+2138,outcome_arm_1,NA,NA,NA,2020-04-09,Exitus,No,Complete
+2144,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+2146,outcome_arm_1,NA,NA,NA,2020-05-02,NA,NA,Unverified
+2147,outcome_arm_1,NA,NA,NA,2020-04-03,Traslado a centro de cuidados mínimos,NA,Complete
+2150,outcome_arm_1,NA,NA,NA,2020-04-05,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+2152,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+2153,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+2154,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio,NA,Complete
+2159,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+2161,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio,NA,Complete
+2167,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio con anticoagulantes,NA,Complete
+2171,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+2172,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio con anticoagulantes,NA,Complete
+2175,outcome_arm_1,NA,NA,NA,2020-04-04,Alta a domicilio,NA,Complete
+2177,outcome_arm_1,NA,NA,NA,2020-04-22,Alta a domicilio,NA,Complete
+2180,outcome_arm_1,NA,NA,NA,2020-04-06,Exitus,No,Complete
+2182,outcome_arm_1,NA,NA,NA,2020-04-15,Alta a domicilio,NA,Complete
+2185,outcome_arm_1,NA,NA,NA,2020-09-08,Exitus,No,Complete
+2188,outcome_arm_1,NA,NA,NA,2020-03-23,Alta a domicilio,NA,Complete
+2189,outcome_arm_1,NA,NA,NA,2020-09-08,Alta a domicilio,NA,Complete
+2191,outcome_arm_1,NA,NA,NA,2020-05-08,Exitus,No,Complete
+2192,outcome_arm_1,NA,NA,NA,2020-04-26,Traslado a centro de cuidados mínimos,NA,Complete
+2193,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+2195,outcome_arm_1,NA,NA,NA,2020-04-06,Alta a domicilio con anticoagulantes,NA,Complete
+2196,outcome_arm_1,NA,NA,NA,2020-08-14,Alta a domicilio,NA,Complete
+2198,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+2200,outcome_arm_1,NA,NA,NA,2020-03-25,Traslado a otro centro hospitalario,NA,Complete
+2204,outcome_arm_1,NA,NA,NA,2020-03-28,NA,NA,Unverified
+2217,outcome_arm_1,NA,NA,NA,2020-03-19,Traslado a otro centro hospitalario,NA,Complete
+2226,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio,NA,Complete
+2228,outcome_arm_1,NA,NA,NA,2020-03-22,Alta a domicilio,NA,Complete
+2233,outcome_arm_1,NA,NA,NA,2020-04-23,Exitus LET,No,Complete
+2236,outcome_arm_1,NA,NA,NA,2020-05-10,Alta a domicilio,NA,Complete
+2243,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio con oxigenoterapia,NA,Complete
+2244,outcome_arm_1,NA,NA,NA,2020-09-03,Alta a domicilio,NA,Complete
+2250,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+2251,outcome_arm_1,NA,NA,NA,2020-03-30,Traslado a centro de cuidados mínimos,NA,Complete
+2254,outcome_arm_1,NA,NA,NA,2020-03-24,Exitus LET,No,Complete
+2261,outcome_arm_1,NA,NA,NA,2020-05-02,Alta a domicilio con anticoagulantes,NA,Complete
+2262,outcome_arm_1,NA,NA,NA,2020-08-30,Alta a domicilio,NA,Complete
+2263,outcome_arm_1,NA,NA,NA,2020-08-17,Alta a domicilio,NA,Complete
+2264,outcome_arm_1,NA,NA,NA,2020-04-19,Alta a domicilio,NA,Complete
+2268,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio con oxigenoterapia,NA,Complete
+2269,outcome_arm_1,NA,NA,NA,2020-04-16,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+2272,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio con anticoagulantes,NA,Complete
+2275,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+2277,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio,NA,Complete
+2291,outcome_arm_1,NA,NA,NA,2020-06-12,Alta a domicilio,NA,Complete
+2298,outcome_arm_1,NA,NA,NA,2020-04-24,Alta a domicilio,NA,Complete
+2301,outcome_arm_1,NA,NA,NA,2020-04-14,Exitus,No,Complete
+2303,outcome_arm_1,NA,NA,NA,2020-04-03,Exitus,NA,Unverified
+2305,outcome_arm_1,NA,NA,NA,2020-05-04,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+2307,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+2308,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio con anticoagulantes,NA,Complete
+2310,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio,NA,Complete
+2313,outcome_arm_1,NA,NA,NA,2020-08-17,Alta a domicilio,NA,Complete
+2315,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio,NA,Complete
+2317,outcome_arm_1,NA,NA,NA,2020-09-03,Alta a domicilio,NA,Complete
+2318,outcome_arm_1,NA,NA,NA,2020-04-09,Alta a domicilio con anticoagulantes,NA,Complete
+2322,outcome_arm_1,NA,NA,NA,2020-05-14,Alta a domicilio,NA,Complete
+2323,outcome_arm_1,NA,NA,NA,2020-05-18,Alta a domicilio,NA,Complete
+2324,outcome_arm_1,NA,NA,NA,2020-03-21,Alta a domicilio,NA,Complete
+2325,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Complete
+2330,outcome_arm_1,NA,NA,NA,2020-08-24,Alta a domicilio,NA,Complete
+2331,outcome_arm_1,NA,NA,NA,2020-05-30,Alta a domicilio,NA,Complete
+2334,outcome_arm_1,NA,NA,NA,2020-04-09,Alta a domicilio,NA,Complete
+2341,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio con anticoagulantes,NA,Complete
+2342,outcome_arm_1,NA,NA,NA,2020-09-04,Exitus,Sí,Complete
+2347,outcome_arm_1,NA,NA,NA,2020-04-04,Alta a domicilio,NA,Complete
+2359,outcome_arm_1,NA,NA,NA,2020-03-29,Alta a domicilio,NA,Complete
+2361,outcome_arm_1,NA,NA,NA,2020-05-26,Alta a domicilio,NA,Complete
+2363,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+2370,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio con oxigenoterapia,NA,Complete
+2371,outcome_arm_1,NA,NA,NA,2020-04-30,Alta a domicilio,NA,Complete
+2372,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+2385,outcome_arm_1,NA,NA,NA,2020-05-04,Alta a domicilio,NA,Complete
+2393,outcome_arm_1,NA,NA,NA,2020-04-08,Exitus LET,No,Complete
+2399,outcome_arm_1,NA,NA,NA,2020-04-30,Alta a domicilio,NA,Complete
+2400,outcome_arm_1,NA,NA,NA,2020-04-30,Alta a domicilio,NA,Complete
+2401,outcome_arm_1,NA,NA,NA,2020-03-30,Exitus LET,No,Complete
+2404,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio,NA,Complete
+2406,outcome_arm_1,NA,NA,NA,2020-04-12,Alta a domicilio,NA,Complete
+2407,outcome_arm_1,NA,NA,NA,2020-04-09,Traslado a centro de cuidados mínimos,NA,Complete
+2408,outcome_arm_1,NA,NA,NA,2020-04-17,Traslado a centro de cuidados mínimos,NA,Complete
+2409,outcome_arm_1,NA,NA,NA,2020-04-17,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+2412,outcome_arm_1,NA,NA,NA,2020-04-24,Alta a domicilio con oxigenoterapia,NA,Complete
+2418,outcome_arm_1,NA,NA,NA,2020-04-16,Alta a domicilio,NA,Complete
+2420,outcome_arm_1,NA,NA,NA,2020-04-20,Alta a domicilio con anticoagulantes,NA,Complete
+2429,outcome_arm_1,NA,NA,NA,2020-04-21,Traslado a otro centro hospitalario,NA,Complete
+2431,outcome_arm_1,NA,NA,NA,2020-04-20,Alta a domicilio,NA,Complete
+2432,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio con anticoagulantes,NA,Complete
+2434,outcome_arm_1,NA,NA,NA,2020-04-24,Traslado a centro de cuidados mínimos,NA,Complete
+2436,outcome_arm_1,NA,NA,NA,2020-04-13,Alta a domicilio,NA,Complete
+2441,outcome_arm_1,NA,NA,NA,2020-04-23,Alta a domicilio,NA,Complete
+2447,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio,NA,Complete
+2448,outcome_arm_1,NA,NA,NA,2020-09-25,NA,NA,Unverified
+2451,outcome_arm_1,NA,NA,NA,2020-03-24,Alta a domicilio,NA,Complete
+2453,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio con anticoagulantes,NA,Complete
+2455,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio,NA,Complete
+2456,outcome_arm_1,NA,NA,NA,2020-04-09,NA,NA,Unverified
+2462,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio,NA,Complete
+2464,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio,NA,Complete
+2466,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio con oxigenoterapia,NA,Complete
+2468,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+2472,outcome_arm_1,NA,NA,NA,2020-03-27,Alta a domicilio,NA,Complete
+2473,outcome_arm_1,NA,NA,NA,2020-03-21,Exitus,NA,Unverified
+2475,outcome_arm_1,NA,NA,NA,2020-06-01,Alta a domicilio,NA,Complete
+2478,outcome_arm_1,NA,NA,NA,2020-04-18,Alta a domicilio,NA,Complete
+2480,outcome_arm_1,NA,NA,NA,2020-08-04,Alta a domicilio,NA,Complete
+2485,outcome_arm_1,NA,NA,NA,2020-05-02,Alta paliativa,NA,Complete
+2490,outcome_arm_1,NA,NA,NA,2020-04-08,Alta a domicilio,NA,Complete
+2493,outcome_arm_1,NA,NA,NA,2020-05-06,Alta a domicilio con anticoagulantes,NA,Complete
+2500,outcome_arm_1,NA,NA,NA,2020-03-26,Alta a domicilio con anticoagulantes,NA,Complete
+2502,outcome_arm_1,NA,NA,NA,2020-04-04,Alta a domicilio,NA,Complete
+2503,outcome_arm_1,NA,NA,NA,2020-04-08,Exitus,No,Complete
+2512,outcome_arm_1,NA,NA,NA,2020-04-14,Alta a domicilio con anticoagulantes,NA,Complete
+2514,outcome_arm_1,NA,NA,NA,2020-04-03,Alta a domicilio con oxigenoterapia + anticoagulantes,NA,Complete
+2516,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio con anticoagulantes,NA,Complete
+2522,outcome_arm_1,NA,NA,NA,2020-03-23,Exitus,NA,Complete
+2523,outcome_arm_1,NA,NA,NA,2020-04-01,Alta a domicilio con oxigenoterapia,NA,Complete
+2524,outcome_arm_1,NA,NA,NA,2020-04-11,Traslado a centro de cuidados mínimos,NA,Complete
+2525,outcome_arm_1,NA,NA,NA,2020-03-31,Exitus LET,No,Complete
+2527,outcome_arm_1,NA,NA,NA,2020-05-21,Exitus,NA,Unverified
+2529,outcome_arm_1,NA,NA,NA,2020-04-13,NA,NA,Unverified
+2532,outcome_arm_1,NA,NA,NA,2020-05-04,Exitus,NA,Unverified
+2537,outcome_arm_1,NA,NA,NA,2020-04-10,Exitus,NA,Unverified
+2539,outcome_arm_1,NA,NA,NA,2020-04-28,Exitus,NA,Unverified
+2549,outcome_arm_1,NA,NA,NA,2020-04-22,Exitus,NA,Unverified
+2552,outcome_arm_1,NA,NA,NA,2020-09-02,NA,NA,Unverified
+2553,outcome_arm_1,NA,NA,NA,2020-04-07,Alta a domicilio,NA,Unverified
+2557,outcome_arm_1,NA,NA,NA,2020-09-02,NA,NA,Unverified
+2559,outcome_arm_1,NA,NA,NA,2020-05-11,Exitus,NA,Unverified
+2560,outcome_arm_1,NA,NA,NA,2020-08-13,Exitus,NA,Unverified
+2563,outcome_arm_1,NA,NA,NA,2020-04-03,NA,NA,Unverified
+2568,outcome_arm_1,NA,NA,NA,2020-09-29,Exitus LET,No,Complete
+2569,outcome_arm_1,NA,NA,NA,2020-04-02,Alta a domicilio,NA,Complete
+2570,outcome_arm_1,NA,NA,NA,2020-03-27,Traslado a otro centro hospitalario,NA,Complete
+2572,outcome_arm_1,NA,NA,NA,2020-04-11,Alta a domicilio,NA,Complete
+2574,outcome_arm_1,NA,NA,NA,2020-03-30,Exitus,No,Complete
+2584,outcome_arm_1,NA,NA,NA,2020-05-05,NA,NA,Unverified
+2586,outcome_arm_1,NA,NA,NA,2020-04-10,Alta a domicilio,NA,Unverified
+2587,outcome_arm_1,NA,NA,NA,2020-03-25,NA,NA,Unverified
+2588,outcome_arm_1,NA,NA,NA,2020-03-23,Exitus,NA,Unverified
+2589,outcome_arm_1,NA,NA,NA,2020-04-20,NA,NA,Unverified
+2590,outcome_arm_1,NA,NA,NA,2020-03-19,NA,NA,Unverified
+2591,outcome_arm_1,NA,NA,NA,2020-04-17,NA,NA,Unverified
+2593,outcome_arm_1,NA,NA,NA,2020-04-07,NA,NA,Unverified
+2598,outcome_arm_1,NA,NA,NA,2020-03-31,Exitus,NA,Unverified
+2600,outcome_arm_1,NA,NA,NA,2020-04-28,NA,NA,Unverified
+2606,outcome_arm_1,NA,NA,NA,2020-03-31,NA,NA,Unverified
+2607,outcome_arm_1,NA,NA,NA,2020-04-22,NA,NA,Unverified
+2609,outcome_arm_1,NA,NA,NA,2020-04-21,NA,NA,Unverified
+2612,outcome_arm_1,NA,NA,NA,2020-03-27,NA,NA,Unverified
+2616,outcome_arm_1,NA,NA,NA,2020-07-15,Exitus,NA,Unverified
+2623,outcome_arm_1,NA,NA,NA,2020-03-31,NA,NA,Unverified
+2625,outcome_arm_1,NA,NA,NA,2020-07-15,Alta a domicilio con anticoagulantes,NA,Complete
+2630,outcome_arm_1,NA,NA,NA,2020-04-04,Alta a domicilio con anticoagulantes,NA,Complete
+2632,outcome_arm_1,NA,NA,NA,2020-03-25,Alta a domicilio con anticoagulantes,NA,Complete
+2639,outcome_arm_1,NA,NA,NA,2020-04-13,NA,NA,Unverified
+2641,outcome_arm_1,NA,NA,NA,2020-04-15,Alta a domicilio,NA,Complete
+2642,outcome_arm_1,NA,NA,NA,2020-04-30,Alta a domicilio con anticoagulantes,NA,Complete
+2645,outcome_arm_1,NA,NA,NA,2020-04-15,Alta a domicilio,NA,Complete
+2647,outcome_arm_1,NA,NA,NA,2020-04-22,Alta a domicilio con anticoagulantes,NA,Complete
+2649,outcome_arm_1,NA,NA,NA,2020-04-09,Alta a domicilio,NA,Complete
+2651,outcome_arm_1,NA,NA,NA,2020-04-14,Alta a domicilio con anticoagulantes,NA,Complete
+2656,outcome_arm_1,NA,NA,NA,2020-03-24,NA,NA,Unverified
+2664,outcome_arm_1,NA,NA,NA,2020-08-28,Alta a domicilio,NA,Complete
+2665,outcome_arm_1,NA,NA,NA,2020-05-22,Exitus,NA,Complete
+2677,outcome_arm_1,NA,NA,NA,2020-04-01,Traslado a centro de cuidados mínimos,NA,Complete
+2678,outcome_arm_1,NA,NA,NA,2020-06-16,Exitus,No,Complete
+2679,outcome_arm_1,NA,NA,NA,2020-03-30,Alta a domicilio,NA,Complete
+2682,outcome_arm_1,NA,NA,NA,2020-04-21,Alta a domicilio,NA,Complete
+2684,outcome_arm_1,NA,NA,NA,2020-03-27,Alta paliativa,NA,Complete
+2686,outcome_arm_1,NA,NA,NA,2020-03-31,Alta a domicilio,NA,Complete
+2687,outcome_arm_1,NA,NA,NA,2020-09-02,Alta a domicilio,NA,Complete
+2696,outcome_arm_1,NA,NA,NA,2020-03-20,NA,NA,Unverified
+2697,outcome_arm_1,NA,NA,NA,2020-03-30,NA,NA,Unverified

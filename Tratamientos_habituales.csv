@@ -1,0 +1,801 @@
+record_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,ingreso_complete,trat_habitual,trat_habitual_opc___1,trat_habitual_opc___2,trat_habitual_opc___3,trat_habitual_opc___4,trat_habitual_opc___5,trat_habitual_opc___6,trat_habitual_opc___7,trat_habitual_opc___8,trat_habitual_opc___9,trat_habitual_opc___10,trat_habitual_opc___11,trat_habitual_opc___12,trat_habitual_opc___99,tratamientos_habituales_complete
+3,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,Corticoides,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+4,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+9,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+12,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+17,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+18,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+19,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+25,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+26,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+27,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+29,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+30,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+33,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+38,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+41,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+42,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,NA,Complete
+43,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+47,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+50,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,Corticoides,Estatinas,Anticoagulantes,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+51,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,Corticoides,Estatinas,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+52,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+53,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+58,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,Corticoides,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+60,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+61,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+65,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+69,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+75,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+80,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+81,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+83,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+84,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+87,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+89,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,Quimioterapia en Hospital de día,Otro tratamiento habitual,Complete
+91,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+92,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+93,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,Corticoides,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+96,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+97,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+98,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+101,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+105,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+113,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+114,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+115,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+116,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+119,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+120,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+121,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+123,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+128,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+130,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+132,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+134,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+141,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,Corticoides,Estatinas,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,NA,Complete
+144,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,Corticoides,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+155,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+160,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+161,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+164,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+166,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+167,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+170,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+171,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+172,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+174,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+178,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+184,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+187,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+192,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+199,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+201,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+202,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+207,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+214,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+215,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+216,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+218,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+222,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+225,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+238,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+240,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,Corticoides,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+242,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+245,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+246,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+249,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+252,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,Corticoides,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+255,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+261,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+263,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+267,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+268,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+270,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+272,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,Corticoides,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+274,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+276,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+277,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+281,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+284,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+288,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+306,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+307,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+309,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+316,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+318,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+321,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+331,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+333,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+338,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+339,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+350,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+357,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+360,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+363,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+368,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+376,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+382,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+385,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,Tratamientos biológicos,NA,Otro tratamiento habitual,Complete
+388,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+392,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,Corticoides,Estatinas,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+395,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+396,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+398,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+405,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,ARAII,NA,NA,Estatinas,NA,NA,Insulina,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+408,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+410,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+414,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,Corticoides,Estatinas,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+416,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+419,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,Corticoides,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+421,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,Corticoides,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+433,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+440,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+443,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+446,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+448,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+450,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tratamientos biológicos,NA,NA,Complete
+452,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+461,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+463,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+465,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+466,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+468,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+473,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+477,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+481,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,Insulina,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+484,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+487,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+490,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,Anticoagulantes,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+493,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+494,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+495,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+499,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+502,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+506,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+515,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+516,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+519,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,Quimioterapia en Hospital de día,Otro tratamiento habitual,Complete
+520,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+522,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+523,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+525,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+527,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+530,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,Anticoagulantes,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+534,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+535,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+539,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+544,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+546,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+548,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+549,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+550,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+562,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+565,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+566,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+576,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+577,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+578,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+581,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+583,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+584,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+592,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+594,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+595,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+598,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+602,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+608,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,ARAII,NA,Corticoides,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+609,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,Corticoides,Estatinas,Anticoagulantes,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+611,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,Corticoides,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+612,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+613,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+615,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,NA,Complete
+618,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+628,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+630,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+638,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+640,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,IECAS,NA,NA,Corticoides,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+645,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+652,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+653,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+654,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,Corticoides,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+657,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+658,situacion_ingreso_arm_1,NA,NA,Incomplete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+660,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+661,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+664,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+668,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+675,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+678,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+679,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+684,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+687,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+689,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+692,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,NA,Complete
+693,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+695,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+697,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+706,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+707,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+711,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+713,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,Corticoides,Estatinas,Anticoagulantes,NA,Insulina,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+715,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+721,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+726,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+727,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+732,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+736,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+738,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+740,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+746,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+751,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+752,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+758,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+764,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+765,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+766,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+770,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+772,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+780,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+783,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+787,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+792,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+794,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+797,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+800,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+803,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+806,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,Corticoides,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+814,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+817,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+820,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+826,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,NA,Complete
+827,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+829,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+830,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+832,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+837,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+839,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+844,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+849,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+858,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+860,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+863,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+865,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+872,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+877,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+882,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+886,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+894,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+895,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+896,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+898,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+899,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,Insulina,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+904,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+906,situacion_ingreso_arm_1,NA,NA,Incomplete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+908,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+913,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+914,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,Corticoides,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+916,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,NA,Complete
+920,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+932,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+933,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+934,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+935,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+936,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+937,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+954,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+960,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+965,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+968,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,Tratamientos biológicos,NA,Otro tratamiento habitual,Complete
+969,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+972,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+976,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+978,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+980,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+985,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+989,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,NA,NA,NA,NA,NA,NA,Quimioterapia en Hospital de día,Otro tratamiento habitual,Complete
+991,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+995,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+996,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+997,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1005,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1006,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1008,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1011,situacion_ingreso_arm_1,NA,NA,Incomplete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1015,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1017,situacion_ingreso_arm_1,NA,NA,Incomplete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1018,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1019,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1020,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1022,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1025,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1027,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,NA,Complete
+1029,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1032,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1038,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1043,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1044,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,Otros hipertensivos,Corticoides,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1045,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1051,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1052,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1057,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1058,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1062,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1066,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1068,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1071,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1074,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,NA,Complete
+1075,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1079,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1081,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1083,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1091,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1092,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1097,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1111,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1112,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1122,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1124,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1127,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,Insulina,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1128,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1132,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1134,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1135,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1143,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1147,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1149,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1150,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1152,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1153,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1163,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1164,situacion_ingreso_arm_1,NA,NA,Unverified,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1172,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1173,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1174,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1175,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1176,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1178,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1185,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1189,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1193,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1194,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1199,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1205,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1208,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1210,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1217,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1218,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1227,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1238,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,Corticoides,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1240,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1242,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1247,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1251,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1256,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,Corticoides,NA,NA,NA,Insulina,NA,NA,NA,NA,NA,Complete
+1258,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1260,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1262,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1270,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1271,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1274,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1279,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1284,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1285,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1293,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1296,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1297,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1306,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1314,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+1318,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1322,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1324,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1329,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1333,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1338,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,NA,NA,NA,NA,NA,NA,Quimioterapia en Hospital de día,Otro tratamiento habitual,Complete
+1343,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1344,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1347,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1349,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,Corticoides,Estatinas,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1350,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,NA,Complete
+1351,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1354,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1357,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1358,situacion_ingreso_arm_1,NA,NA,Incomplete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1359,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1360,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1364,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1368,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1371,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1372,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1374,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1379,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1382,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1384,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1386,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1389,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1392,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1394,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1396,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",Antidepresivos,NA,NA,NA,Complete
+1399,situacion_ingreso_arm_1,NA,NA,Incomplete,Sí,NA,ARAII,Otros hipertensivos,Corticoides,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,NA,Complete
+1412,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+1413,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1415,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1418,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1419,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1420,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,Corticoides,Estatinas,NA,Antidiabéticos orales,Insulina,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1421,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1426,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1427,situacion_ingreso_arm_1,NA,NA,Incomplete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1432,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1433,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+1438,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,NA,Complete
+1440,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1443,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1444,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1445,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1452,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,NA,Complete
+1455,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1457,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1459,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1462,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1463,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1465,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1466,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1474,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1475,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1478,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1484,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1485,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1488,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1489,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1492,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1493,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1499,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1505,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+1506,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1510,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1518,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1525,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1529,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1538,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,Corticoides,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1542,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1549,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1550,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1556,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1558,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1559,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,NA,Complete
+1562,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1563,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1571,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,Corticoides,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1572,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1573,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1578,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1579,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1584,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1588,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1590,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1593,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1598,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1604,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1605,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1606,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1607,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1608,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1611,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1613,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1616,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1622,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1624,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1626,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1628,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1629,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+1635,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1646,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1647,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1650,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1655,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1660,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1661,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1667,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1673,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1678,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,Corticoides,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1681,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1684,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1691,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+1693,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1694,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1707,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,Quimioterapia en Hospital de día,Otro tratamiento habitual,Complete
+1708,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1714,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1716,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1717,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+1719,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1723,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1725,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1726,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,Insulina,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1729,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1732,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1735,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1739,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1741,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1745,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1753,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1757,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1766,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1768,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1775,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1777,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1779,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1781,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1786,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1789,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1793,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,Corticoides,NA,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1795,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1796,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1810,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1811,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1814,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1815,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1823,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1825,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1829,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+1831,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1840,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1841,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1842,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1843,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,Corticoides,Estatinas,Anticoagulantes,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1849,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1851,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1854,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1856,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1859,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1862,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1864,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1868,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1870,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1871,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1879,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1882,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1884,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1888,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1910,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1912,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1914,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1918,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1925,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1934,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1937,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1940,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1942,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1948,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1949,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1953,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1954,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1955,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1956,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1958,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1962,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+1965,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1966,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1975,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1976,situacion_ingreso_arm_1,NA,NA,Unverified,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1978,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1981,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1983,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1984,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+1985,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+1987,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1997,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+1998,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2016,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2017,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2018,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,Corticoides,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2023,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2025,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2026,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+2028,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2032,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2036,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2038,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2044,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2059,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2060,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2061,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2066,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2068,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2069,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2082,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,Antidiabéticos orales,NA,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+2085,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2091,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2093,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2094,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2099,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2105,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2107,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+2109,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2115,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2119,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2122,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2123,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2124,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2125,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2129,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2131,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2136,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2138,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2144,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2146,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2147,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2150,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2152,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2153,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2154,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2159,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2161,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2167,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2171,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2172,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,Corticoides,Estatinas,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2175,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2177,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2180,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2182,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2185,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2188,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2189,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2191,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2192,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Unverified
+2193,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2195,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2196,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2198,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2200,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2204,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2217,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2226,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2228,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2233,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2236,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2243,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2244,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2250,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2251,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2254,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2261,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+2262,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2263,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2264,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2268,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2269,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2272,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2275,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2277,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2291,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2298,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2301,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2303,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2305,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2307,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2308,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2310,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2313,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2315,situacion_ingreso_arm_1,NA,NA,Unverified,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,NA,Complete
+2317,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2318,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2322,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2323,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,Insulina,"Inmunosupresores (tratamientos para el cáncer, enf autoinmunes, enf hematológicas graves, trasplante,...)",NA,NA,NA,Otro tratamiento habitual,Complete
+2324,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2325,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2330,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2331,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2334,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+2341,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2342,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2347,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2359,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2361,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2363,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2370,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2371,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2372,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2385,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2393,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2399,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2400,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2401,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+2404,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2406,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2407,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2408,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2409,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2412,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2418,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2420,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+2429,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2431,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,Antidiabéticos orales,Insulina,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2432,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,NA,Complete
+2434,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2436,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2441,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2447,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,NA,Complete
+2448,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2451,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2453,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,NA,Complete
+2455,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,NA,Complete
+2456,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2462,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2464,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2466,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2468,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2472,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2473,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2475,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2478,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2480,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2485,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2490,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2493,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,Antidiabéticos orales,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2500,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2502,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2503,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2512,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2514,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2516,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2522,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2523,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2524,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2525,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2527,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2529,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2532,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2537,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2539,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2549,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2552,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2553,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2557,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2559,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2560,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2563,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2568,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,Corticoides,NA,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2569,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,NA,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2570,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2572,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2574,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,Otros hipertensivos,NA,Estatinas,Anticoagulantes,Antidiabéticos orales,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2584,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2586,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2587,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2588,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2589,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2590,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2591,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2593,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2598,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2600,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2606,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2607,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2609,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2612,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2616,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2623,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2625,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2630,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2632,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2639,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2641,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,Estatinas,NA,NA,NA,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2642,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2645,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2647,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2649,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2651,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,Estatinas,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2656,situacion_ingreso_arm_1,NA,NA,Complete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2664,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,ARAII,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2665,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,Otros hipertensivos,NA,NA,Anticoagulantes,Antidiabéticos orales,Insulina,NA,Antidepresivos,NA,NA,Otro tratamiento habitual,Complete
+2677,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2678,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2679,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2682,situacion_ingreso_arm_1,NA,NA,Complete,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2684,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,Anticoagulantes,NA,NA,NA,NA,NA,NA,Otro tratamiento habitual,Complete
+2686,situacion_ingreso_arm_1,NA,NA,Complete,Sí,IECAS,NA,Otros hipertensivos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Complete
+2687,situacion_ingreso_arm_1,NA,NA,Complete,Sí,NA,NA,NA,NA,NA,NA,NA,Insulina,NA,NA,NA,NA,NA,Complete
+2696,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
+2697,situacion_ingreso_arm_1,NA,NA,Unverified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Incomplete
