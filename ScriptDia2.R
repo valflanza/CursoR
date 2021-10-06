@@ -142,3 +142,14 @@ median(resultado$Prescripciones)
 sd(resultado$Prescripciones)
 
 hist(resultado$Prescripciones)
+
+
+
+Bioquimica %>% 
+  group_by(record_id) %>% 
+  summarise(MinGlucosa = min(glucosa, na.rm = TRUE), 
+            MaxGlucosa = max(glucosa, na.rm = TRUE),
+            SDGlucosa = sd(glucosa, na.rm = TRUE)) %>% View()
+
+
+
