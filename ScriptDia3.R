@@ -169,6 +169,7 @@ bioquimica %>%
   inner_join(outcome, by ="record_id") %>% 
   drop_na(creatinina) %>% 
   drop_na(outcomefinal) %>%
+  mutate(creatinina = gsub(pattern = ",",replacement = ".",creatinina)) %>% ### Tenemos que cambiar el separador decimal "," por un ".". 
   mutate(creatinina = as.numeric(creatinina)) %>%   #### Es un principio creatinina es un character y tenemos que cambiarle de tipo
   ggplot(aes(x=outcomefinal, y = creatinina, fill = outcomefinal)) + geom_boxplot()
 
